@@ -12,11 +12,12 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using DevExpress.Persistent.BaseImpl.PermissionPolicy;
+using static SecurityPreviewing.Module.Controllers.SecurityPreviewController;
 namespace SecurityPreviewing.Module.BusinessObjects
 {
     [MapInheritance(MapInheritanceType.ParentTable)]
     [DefaultClassOptions]
-    public class CustomUser : PermissionPolicyUser
+    public class CustomUser : PermissionPolicyUser, ISecurityPreview
     { // Inherit from a different class to provide a custom primary key, concurrency and deletion behavior, etc. (https://documentation.devexpress.com/eXpressAppFramework/CustomDocument113146.aspx).
         // Use CodeRush to create XPO classes and properties with a few keystrokes.
         // https://docs.devexpress.com/CodeRushForRoslyn/118557
