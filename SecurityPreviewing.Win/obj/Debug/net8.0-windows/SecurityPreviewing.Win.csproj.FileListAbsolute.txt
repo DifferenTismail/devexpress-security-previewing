@@ -1,0 +1,8 @@
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Win\obj\Debug\net8.0-windows\SecurityPreviewing.Win.csproj.AssemblyReference.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Win\obj\Debug\net8.0-windows\SecurityPreviewing.Win.XafSplashScreen.resources
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Win\obj\Debug\net8.0-windows\SecurityPreviewing.Win.csproj.GenerateResource.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Win\obj\Debug\net8.0-windows\SecurityPreviewing.Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Win\obj\Debug\net8.0-windows\SecurityPreviewing.Win.AssemblyInfoInputs.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Win\obj\Debug\net8.0-windows\SecurityPreviewing.Win.AssemblyInfo.cs
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Win\obj\Debug\net8.0-windows\SecurityPreviewing.Win.csproj.CoreCompileInputs.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Win\obj\Debug\net8.0-windows\SecurityPreviewing.Win.sourcelink.json

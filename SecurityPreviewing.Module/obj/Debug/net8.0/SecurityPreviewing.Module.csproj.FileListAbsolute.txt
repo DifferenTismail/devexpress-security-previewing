@@ -1,0 +1,6 @@
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Module\obj\Debug\net8.0\SecurityPreviewing.Module.csproj.AssemblyReference.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Module\obj\Debug\net8.0\SecurityPreviewing.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Module\obj\Debug\net8.0\SecurityPreviewing.Module.AssemblyInfoInputs.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Module\obj\Debug\net8.0\SecurityPreviewing.Module.AssemblyInfo.cs
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Module\obj\Debug\net8.0\SecurityPreviewing.Module.csproj.CoreCompileInputs.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Module\obj\Debug\net8.0\SecurityPreviewing.Module.sourcelink.json

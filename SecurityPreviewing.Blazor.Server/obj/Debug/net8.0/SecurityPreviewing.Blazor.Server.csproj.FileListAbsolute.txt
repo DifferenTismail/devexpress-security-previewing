@@ -1,0 +1,9 @@
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Blazor.Server\obj\Debug\net8.0\SecurityPreviewing.Blazor.Server.csproj.AssemblyReference.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Blazor.Server\obj\Debug\net8.0\SecurityPreviewing.Blazor.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Blazor.Server\obj\Debug\net8.0\SecurityPreviewing.Blazor.Server.AssemblyInfoInputs.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Blazor.Server\obj\Debug\net8.0\SecurityPreviewing.Blazor.Server.AssemblyInfo.cs
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Blazor.Server\obj\Debug\net8.0\SecurityPreviewing.Blazor.Server.csproj.CoreCompileInputs.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Blazor.Server\obj\Debug\net8.0\SecurityPreviewing.Blazor.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Blazor.Server\obj\Debug\net8.0\SecurityPreviewing.Blazor.Server.RazorAssemblyInfo.cache
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Blazor.Server\obj\Debug\net8.0\SecurityPreviewing.Blazor.Server.RazorAssemblyInfo.cs
+C:\xaf\SecurityPreviewing\SecurityPreviewing.Blazor.Server\obj\Debug\net8.0\SecurityPreviewing.Blazor.Server.sourcelink.json
