@@ -36,7 +36,6 @@ namespace SecurityPreviewing.Module.BusinessObjects
             get { return _securityPreview; }
             set { SetPropertyValue<bool>(nameof(SecurityPreview), ref _securityPreview, value); }
 
-
-
+        }
     }
 }
