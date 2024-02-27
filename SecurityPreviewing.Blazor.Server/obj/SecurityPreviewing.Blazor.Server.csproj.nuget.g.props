@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ismai\.nuget\packages\;C:\Program Files\DevExpress 23.2\Components\Offline Packages;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.9.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\ismai\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files\DevExpress 23.2\Components\Offline Packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.blazor.themes\23.2.4\buildTransitive\DevExpress.Blazor.Themes.props" Condition="Exists('C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.blazor.themes\23.2.4\buildTransitive\DevExpress.Blazor.Themes.props')" />
+    <Import Project="C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.blazor\23.2.4\buildTransitive\net5.0\DevExpress.Blazor.props" Condition="Exists('C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.blazor\23.2.4\buildTransitive\net5.0\DevExpress.Blazor.props')" />
+    <Import Project="C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.expressapp.blazor\23.2.4\buildTransitive\DevExpress.ExpressApp.Blazor.props" Condition="Exists('C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.expressapp.blazor\23.2.4\buildTransitive\DevExpress.ExpressApp.Blazor.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\ismai\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgDevExpress_Data Condition=" '$(PkgDevExpress_Data)' == '' ">C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.data\23.2.4</PkgDevExpress_Data>
+    <PkgDevExpress_Xpo Condition=" '$(PkgDevExpress_Xpo)' == '' ">C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.xpo\23.2.4</PkgDevExpress_Xpo>
+    <PkgDevExpress_ExpressApp Condition=" '$(PkgDevExpress_ExpressApp)' == '' ">C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.expressapp\23.2.4</PkgDevExpress_ExpressApp>
+    <PkgDevExpress_DataAccess Condition=" '$(PkgDevExpress_DataAccess)' == '' ">C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.dataaccess\23.2.4</PkgDevExpress_DataAccess>
+    <PkgDevExpress_ExpressApp_CodeAnalysis Condition=" '$(PkgDevExpress_ExpressApp_CodeAnalysis)' == '' ">C:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.expressapp.codeanalysis\23.2.4</PkgDevExpress_ExpressApp_CodeAnalysis>
+  </PropertyGroup>
+</Project>
