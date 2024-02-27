@@ -24,4 +24,7 @@
     <PackageReference Include="DevExpress.ExpressApp.Validation.Blazor" Version="23.2.4" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SecurityPreviewing.Module\SecurityPreviewing.Module.csproj" />
+  </ItemGroup>
 </Project>

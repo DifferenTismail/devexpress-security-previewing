@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xaf\\SecurityPreviewing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDCBB-C3CB-4C6D-B19D-518CD46F62C8}|SecurityPreviewing.Module\\SecurityPreviewing.Module.csproj|c:\\xaf\\securitypreviewing\\securitypreviewing.module\\controllers\\securitypreviewcontroller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDCBB-C3CB-4C6D-B19D-518CD46F62C8}|SecurityPreviewing.Module\\SecurityPreviewing.Module.csproj|solutionrelative:securitypreviewing.module\\controllers\\securitypreviewcontroller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDCBB-C3CB-4C6D-B19D-518CD46F62C8}|SecurityPreviewing.Module\\SecurityPreviewing.Module.csproj|c:\\xaf\\securitypreviewing\\securitypreviewing.module\\controllers\\securitypreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDCBB-C3CB-4C6D-B19D-518CD46F62C8}|SecurityPreviewing.Module\\SecurityPreviewing.Module.csproj|solutionrelative:securitypreviewing.module\\controllers\\securitypreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDCBB-C3CB-4C6D-B19D-518CD46F62C8}|SecurityPreviewing.Module\\SecurityPreviewing.Module.csproj|c:\\xaf\\securitypreviewing\\securitypreviewing.module\\businessobjects\\custumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDCBB-C3CB-4C6D-B19D-518CD46F62C8}|SecurityPreviewing.Module\\SecurityPreviewing.Module.csproj|solutionrelative:securitypreviewing.module\\businessobjects\\custumuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityPreviewController.Designer.cs",
+              "DocumentMoniker": "C:\\xaf\\SecurityPreviewing\\SecurityPreviewing.Module\\Controllers\\SecurityPreviewController.Designer.cs",
+              "RelativeDocumentMoniker": "SecurityPreviewing.Module\\Controllers\\SecurityPreviewController.Designer.cs",
+              "ToolTip": "C:\\xaf\\SecurityPreviewing\\SecurityPreviewing.Module\\Controllers\\SecurityPreviewController.Designer.cs",
+              "RelativeToolTip": "SecurityPreviewing.Module\\Controllers\\SecurityPreviewController.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:57:01.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityPreviewController.cs",
+              "DocumentMoniker": "C:\\xaf\\SecurityPreviewing\\SecurityPreviewing.Module\\Controllers\\SecurityPreviewController.cs",
+              "RelativeDocumentMoniker": "SecurityPreviewing.Module\\Controllers\\SecurityPreviewController.cs",
+              "ToolTip": "C:\\xaf\\SecurityPreviewing\\SecurityPreviewing.Module\\Controllers\\SecurityPreviewController.cs",
+              "RelativeToolTip": "SecurityPreviewing.Module\\Controllers\\SecurityPreviewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:56:31.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustumUser.cs",
+              "DocumentMoniker": "C:\\xaf\\SecurityPreviewing\\SecurityPreviewing.Module\\BusinessObjects\\CustumUser.cs",
+              "RelativeDocumentMoniker": "SecurityPreviewing.Module\\BusinessObjects\\CustumUser.cs",
+              "ToolTip": "C:\\xaf\\SecurityPreviewing\\SecurityPreviewing.Module\\BusinessObjects\\CustumUser.cs",
+              "RelativeToolTip": "SecurityPreviewing.Module\\BusinessObjects\\CustumUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCQAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:44:56.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

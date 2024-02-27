@@ -14,6 +14,7 @@ using System.Text;
 using DevExpress.Persistent.BaseImpl.PermissionPolicy;
 namespace SecurityPreviewing.Module.BusinessObjects
 {
+    [MapInheritance(MapInheritanceType.ParentTable)]
     [DefaultClassOptions]
     public class CustomUser : PermissionPolicyUser
     { // Inherit from a different class to provide a custom primary key, concurrency and deletion behavior, etc. (https://documentation.devexpress.com/eXpressAppFramework/CustomDocument113146.aspx).
@@ -28,6 +29,14 @@ namespace SecurityPreviewing.Module.BusinessObjects
             base.AfterConstruction();
             // Place your initialization code here (https://documentation.devexpress.com/eXpressAppFramework/CustomDocument112834.aspx).
         }
+
+        private bool _securityPreview;
+        public bool SecurityPreview
+        {
+            get { return _securityPreview; }
+            set { SetPropertyValue<bool>(nameof(SecurityPreview), ref _securityPreview, value); }
+
+
 
     }
 }
